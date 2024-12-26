@@ -13,3 +13,7 @@
 - 按下空格键或向上键：恐龙跳跃
 - 按住向下键：恐龙下蹲
 - 松开向下键：恐龙恢复站立状态
+
+ ## 👶 如何切换自己心仪的角色
+- 将图片文件移动到Character-Rush-main\Character-Rush-main\resources\images中
+- 将core.py文件中的ch项更改为自己的图片的路径即可使用自己心仪的角色
